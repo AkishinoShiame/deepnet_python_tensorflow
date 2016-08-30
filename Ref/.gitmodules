@@ -4,3 +4,6 @@
 [submodule "TensorFlow-Examples"]
 	path = TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "awesome-machine-learning"]
+	path = awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning.git
