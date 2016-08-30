@@ -1,0 +1,3 @@
+[submodule "awesome-machine-learning"]
+	path = awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning.git
